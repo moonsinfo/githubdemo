@@ -10,5 +10,7 @@ public class Test {
         System.err.println("master-1");
         System.err.println("develop-1");
         System.err.println("develop-2");
+
+        System.err.println("moonsinfo-master");
     }
 }
